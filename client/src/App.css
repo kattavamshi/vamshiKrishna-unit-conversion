@@ -1,0 +1,44 @@
+.form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.section {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.label {
+    font-size: 14px;
+}
+
+input {
+    width: 250px;
+    height: 20px;
+    float: right;
+    font-size: 14px;
+}
+
+select {
+    width: 255px;
+    height: 25px;
+    float: right;
+    font-size: 14px;
+}
+
+.error, .output {
+    margin: 10px auto;
+    font-size: 14px;
+}
+
+.error {
+    color: red;
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    color: black;
+    background-color: white;
+}
