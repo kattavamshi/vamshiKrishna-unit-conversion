@@ -8,7 +8,7 @@ npm install
 
 npm run start
 
-browse 'http://localhost:3000'
+localhost 'http://localhost:3000'
 
 ## Server 
 
